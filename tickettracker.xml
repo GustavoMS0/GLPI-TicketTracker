@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>Ticket Tracker</name>
+   <key>tickettracker</key>
+   <state>stable</state>
+   <logo>https://raw.githubusercontent.com/GustavoMS0/GLPI-TicketTracker/main/tickettracker.png</logo>
+   <description>
+      <short>
+         <en>Tracks who viewed each GLPI ticket, access count, first and last seen timestamps.</en>
+         <pt>Registra quem visualizou cada chamado no GLPI, com total de acessos e datas de primeira e última visualização.</pt>
+      </short>
+      <long>
+         <en>Lightweight GLPI plugin that tracks ticket views per user with request-level deduplication, configurable cooldown window, optional exclusion of self-requester views, and a dedicated Views tab on tickets for GLPI 10, 11, and 12.</en>
+         <pt>Plugin leve para GLPI que registra visualizações de chamados por usuário com deduplicação na requisição, janela de cooldown configurável, opção para ignorar o próprio requerente e aba Visualizações dedicada nos chamados, compatível com GLPI 10, 11 e 12.</pt>
+      </long>
+   </description>
+   <homepage>https://github.com/GustavoMS0/GLPI-TicketTracker</homepage>
+   <download>https://github.com/GustavoMS0/GLPI-TicketTracker/releases</download>
+   <issues>https://github.com/GustavoMS0/GLPI-TicketTracker/issues</issues>
+   <readme>https://github.com/GustavoMS0/GLPI-TicketTracker/blob/main/README.md</readme>
+   <changelog>https://github.com/GustavoMS0/GLPI-TicketTracker/blob/main/CHANGELOG.md</changelog>
+   <authors>
+      <author>Gustavo Martins</author>
+   </authors>
+   <versions>
+      <version>
+         <num>1.0.0</num>
+         <compatibility>~10.0.0 || ~11.0.0 || ~12.0.0</compatibility>
+         <download_url>https://github.com/GustavoMS0/GLPI-TicketTracker/releases/download/v1.0.0/tickettracker-1.0.0.zip</download_url>
+      </version>
+   </versions>
+   <langs>
+      <lang>pt_BR</lang>
+   </langs>
+   <license>GPLv3+</license>
+   <tags>
+      <en>
+         <tag>tickets</tag>
+         <tag>views</tag>
+         <tag>tracking</tag>
+         <tag>audit</tag>
+         <tag>helpdesk</tag>
+      </en>
+      <pt>
+         <tag>chamados</tag>
+         <tag>visualizacoes</tag>
+         <tag>rastreamento</tag>
+         <tag>auditoria</tag>
+         <tag>helpdesk</tag>
+      </pt>
+   </tags>
+</root>

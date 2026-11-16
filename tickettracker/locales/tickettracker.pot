@@ -1,0 +1,75 @@
+# Ticket Tracker - modelo de tradução (domínio "tickettracker").
+# Copyright (C) 2026 by G. Martins
+# This file is distributed under the same license as the Ticket Tracker package (GPLv3+).
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ticket Tracker 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/GustavoMS0/GLPI-TicketTracker/issues\n"
+"POT-Creation-Date: 2026-11-16 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Ticket Tracker"
+msgstr ""
+
+msgid "Visualizações"
+msgstr ""
+
+msgid "Visualizações do chamado"
+msgstr ""
+
+msgid "Usuário"
+msgstr ""
+
+msgid "Total de acessos"
+msgstr ""
+
+msgid "Primeira visualização"
+msgstr ""
+
+msgid "Última visualização"
+msgstr ""
+
+msgid "Nenhuma visualização registrada até o momento."
+msgstr ""
+
+msgid "Usuário #%d"
+msgstr ""
+
+msgid "Configuração salva."
+msgstr ""
+
+msgid "Origem da requisição não permitida."
+msgstr ""
+
+msgid "Você possui permissão apenas de leitura nas configurações."
+msgstr ""
+
+msgid "Janela de cooldown (minutos)"
+msgstr ""
+
+msgid "Tempo mínimo em minutos entre visualizações do mesmo usuário para incrementar o contador (0 a 1440). Visualizações dentro da janela atualizam apenas a última visualização."
+msgstr ""
+
+msgid "Ignorar visualizações do próprio requerente"
+msgstr ""
+
+msgid "Quando ativado, acessos do criador ou requerente do chamado não são contabilizados, exceto se ele também estiver atribuído como técnico."
+msgstr ""
+
+msgid "Exibir aba Visualizações no autoatendimento"
+msgstr ""
+
+msgid "Por padrão, a aba Visualizações aparece apenas na interface padrão (Central). Ative para exibi-la também na interface simplificada (Self-Service)."
+msgstr ""
+
+msgid "Salvar"
+msgstr ""

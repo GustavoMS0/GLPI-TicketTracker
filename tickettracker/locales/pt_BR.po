@@ -1,0 +1,74 @@
+# Ticket Tracker - tradução pt_BR (domínio "tickettracker").
+# Copyright (C) 2026 by G. Martins
+# This file is distributed under the same license as the Ticket Tracker package (GPLv3+).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ticket Tracker 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/GustavoMS0/GLPI-TicketTracker/issues\n"
+"POT-Creation-Date: 2026-11-16 00:00+0000\n"
+"PO-Revision-Date: 2026-11-16 00:00+0000\n"
+"Last-Translator: G. Martins\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Ticket Tracker"
+msgstr "Ticket Tracker"
+
+msgid "Visualizações"
+msgstr "Visualizações"
+
+msgid "Visualizações do chamado"
+msgstr "Visualizações do chamado"
+
+msgid "Usuário"
+msgstr "Usuário"
+
+msgid "Total de acessos"
+msgstr "Total de acessos"
+
+msgid "Primeira visualização"
+msgstr "Primeira visualização"
+
+msgid "Última visualização"
+msgstr "Última visualização"
+
+msgid "Nenhuma visualização registrada até o momento."
+msgstr "Nenhuma visualização registrada até o momento."
+
+msgid "Usuário #%d"
+msgstr "Usuário #%d"
+
+msgid "Configuração salva."
+msgstr "Configuração salva."
+
+msgid "Origem da requisição não permitida."
+msgstr "Origem da requisição não permitida."
+
+msgid "Você possui permissão apenas de leitura nas configurações."
+msgstr "Você possui permissão apenas de leitura nas configurações."
+
+msgid "Janela de cooldown (minutos)"
+msgstr "Janela de cooldown (minutos)"
+
+msgid "Tempo mínimo em minutos entre visualizações do mesmo usuário para incrementar o contador (0 a 1440). Visualizações dentro da janela atualizam apenas a última visualização."
+msgstr "Tempo mínimo em minutos entre visualizações do mesmo usuário para incrementar o contador (0 a 1440). Visualizações dentro da janela atualizam apenas a última visualização."
+
+msgid "Ignorar visualizações do próprio requerente"
+msgstr "Ignorar visualizações do próprio requerente"
+
+msgid "Quando ativado, acessos do criador ou requerente do chamado não são contabilizados, exceto se ele também estiver atribuído como técnico."
+msgstr "Quando ativado, acessos do criador ou requerente do chamado não são contabilizados, exceto se ele também estiver atribuído como técnico."
+
+msgid "Exibir aba Visualizações no autoatendimento"
+msgstr "Exibir aba Visualizações no autoatendimento"
+
+msgid "Por padrão, a aba Visualizações aparece apenas na interface padrão (Central). Ative para exibi-la também na interface simplificada (Self-Service)."
+msgstr "Por padrão, a aba Visualizações aparece apenas na interface padrão (Central). Ative para exibi-la também na interface simplificada (Self-Service)."
+
+msgid "Salvar"
+msgstr "Salvar"

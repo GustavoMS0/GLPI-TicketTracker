@@ -1,0 +1,40 @@
+.tickettracker-config-card {
+    max-width: 760px;
+}
+
+.tickettracker-cooldown-input {
+    max-width: 180px;
+}
+
+.tickettracker-tab {
+    margin: 0.5rem 0;
+}
+
+.tickettracker-tab .card-header {
+    border-bottom: 1px solid var(--tblr-border-color, rgba(98, 105, 118, 0.16));
+}
+
+.tickettracker-table th {
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.tickettracker-table td {
+    vertical-align: middle;
+}
+
+.tickettracker-count {
+    min-width: 2.25rem;
+    font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 576px) {
+    .tickettracker-config-card {
+        margin: 0.75rem !important;
+    }
+
+    .tickettracker-table th,
+    .tickettracker-table td {
+        white-space: nowrap;
+    }
+}
