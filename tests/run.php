@@ -68,10 +68,10 @@ function resetFixture(): void
 
     TestRuntime::reset();
     $DB->reset();
-    PluginTickettrackerTracker::resetRuntimeState();
 
     plugin_init_tickettracker();
     plugin_tickettracker_install();
+    PluginTickettrackerTracker::resetRuntimeState();
 }
 
 function seedUser(int $id, string $login, string $firstname, string $realname): void
