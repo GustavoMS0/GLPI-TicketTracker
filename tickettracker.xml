@@ -2,7 +2,7 @@
 <root>
    <name>Ticket Tracker</name>
    <key>tickettracker</key>
-   <state>stable</state>
+   <state>beta</state>
    <logo>https://raw.githubusercontent.com/GustavoMS0/GLPI-TicketTracker/main/tickettracker.png</logo>
    <description>
       <short>

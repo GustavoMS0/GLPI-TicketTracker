@@ -34,4 +34,4 @@ jobs:
         run: |
           NOTES=$(awk -v ver="$VERSION" '/^## \[/{if(f)exit} index($0,"## [" ver "]")==1{f=1;next} f' CHANGELOG.md)
           gh release create "$GITHUB_REF_NAME" "tickettracker-$VERSION.zip" \
-            --title "Ticket Tracker $VERSION" --notes "$NOTES"
+            --title "Ticket Tracker $VERSION (Em Desenvolvimento / Beta)" --prerelease --notes "$NOTES"
